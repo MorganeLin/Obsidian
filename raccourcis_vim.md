@@ -1,6 +1,6 @@
 ## Raccourcis Vim 
-##### Pour se déplacer 
 
+#####  Pour se déplacer 
 _Mettre avant le nombre de chiffre souhaité_
 
 	gg - pour aller au début du fichier
@@ -19,7 +19,7 @@ _Mettre avant le nombre de chiffre souhaité_
 	Shift + o - insert vers le haut
 	 o - insert vers le bas
 
-####Outils entre les parenthèses
+##### Outils entre les parenthèses
 
 	c i ( - **changer** ce qu'il y a à l'intérieur de la brackets 
 	d i ( - **supprimer** ce qu'il y a entre parenthèses
