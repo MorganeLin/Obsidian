@@ -1,7 +1,9 @@
-## Raccourcis Vim 
+## VIM
+### Raccourcis Vim 
 
+Pour faciliter les raccourcis Vim il est important de configurer son [[vim.rc]]
 #####  Pour se déplacer 
-_Mettre avant le nombre de chiffre souhaité_
+Mettre avant le nombre de chiffre souhaité
 
 	gg - pour aller au début du fichier
 	G - pour aller à la fin du fichier 
@@ -21,7 +23,12 @@ _Mettre avant le nombre de chiffre souhaité_
 
 ##### Outils entre les parenthèses
 
-	c i ( - **changer** ce qu'il y a à l'intérieur de la brackets 
-	d i ( - **supprimer** ce qu'il y a entre parenthèses
-	y i ( - **copier** ce qu'il y a entre parenthèses
+	c i ( - changer ce qu'il y a à l'intérieur de la brackets 
+	d i ( - supprimer ce qu'il y a entre parenthèses
+	y i ( - copier ce qu'il y a entre parenthèses
 
+##### Quelques commandes pour le tree
+
+	:E - Pour ouvrir le tree de l'emplacement du fichier
+	:15 le - Pour ouvrir le tree afin de naviguer entre les fichiers
+	:Vsplit (le nom du fichier) - scinder l'écran en deux avec le fichier actuel et le fichier mentionné   
