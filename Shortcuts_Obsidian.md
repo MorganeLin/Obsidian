@@ -26,3 +26,4 @@
 
 	- Faire des doubles crochets afin qu'on puisse cliquer dessus en créer un fichier
 	- [ ] (le lien) - Création d'un via un alias clickable
+
