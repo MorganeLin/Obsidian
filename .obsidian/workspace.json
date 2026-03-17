@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raccourcis_vim.md",
+                "file": "42/Tools/raccourcis_vim.md",
                 "mode": "source",
                 "source": false
               },
@@ -31,10 +31,14 @@
             "id": "6af6a3d46cef3247",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "markdown",
+              "state": {
+                "file": "42/Tools/command .git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "command .git"
             }
           }
         ]
@@ -199,12 +203,14 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "6af6a3d46cef3247",
+  "active": "680d16a427d27649",
   "lastOpenFiles": [
-    "raccourcis_vim.md",
-    "command .git.md",
+    "42/Tools/raccourcis_vim.md",
+    "42/Tools",
+    "42",
+    "42/Tools/command .git.md",
     "shortcuts_obsidian.md",
-    "vim.rc.md",
+    "42/Tools/vim.rc.md",
     "README.md",
     "Titanic.md",
     "Brad Pitt.md",
