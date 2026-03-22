@@ -1,7 +1,7 @@
 ## VIM
 ### Raccourcis Vim 
 
-Pour faciliter les raccourcis Vim il est important de configurer son [[vim.rc]]
+Pour faciliter les raccourcis Vim il est important de configurer son [[vim.rc]] et [[zshrc]] 
 #####  Pour se déplacer 
 Mettre avant le nombre de chiffre souhaité
 
