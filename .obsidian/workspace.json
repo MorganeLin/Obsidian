@@ -4,34 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "06cd7aa0768dac52",
+        "id": "052e84930bd0e46f",
         "type": "tabs",
         "children": [
           {
-            "id": "c5b48f7064461a76",
+            "id": "67e1c7cf08bd3f99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42/Languages/C/push_swap/push_swap.md",
+                "file": "42/Tools/command .git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "push_swap"
+              "title": "command .git"
             }
           },
           {
-            "id": "08a85839ccf6f2f3",
+            "id": "742e1d1c0251790b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "markdown",
+              "state": {
+                "file": "42/Languages/C/push_swap/algorithme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "algorithme"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,34 +198,38 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "c5b48f7064461a76",
+  "active": "742e1d1c0251790b",
   "lastOpenFiles": [
     "42/Languages/C/push_swap/parsing.md",
     "42/Languages/C/push_swap/opérations.md",
     "42/Languages/C/push_swap/algorithme.md",
+    "Shortcuts/Shortcuts_iTerm2.md",
+    "GDB VS LLDB.md",
+    "42/Tools/command .git.md",
+    "42/Tools/vim.rc.md",
+    "42/Tools/raccourcis_vim.md",
+    "Shortcuts/Shortcuts.md",
+    "42/Languages/Python/Python.md",
     "42/Languages/C/push_swap/push_swap.md",
-    "Shortcuts_Obsidian.md",
+    "Sites pour clavier.md",
+    "Shortcuts/Shortcuts_Obsidian.md",
+    "Shortcuts",
     "Sans titre.base",
     "README.md",
-    "42/Tools/vim.rc.md",
     "Sans titre 1.canvas",
     "Sans titre.canvas",
     "2026-03-24.md",
     "zshrc.md",
-    "42/Tools/command .git.md",
-    "42/Languages/Python/Python.md",
     "42/Languages/Python/Sans titre",
     "42/Languages/Python",
     "42/Languages/C",
     "42/Languages",
-    "42/Tools/raccourcis_vim.md",
     "42/Languages/C/push_swap",
     "42/Tools",
     "42",
     "shortcuts_obsidian.md",
     "Titanic.md",
     "Brad Pitt.md",
-    "Shell",
     "Shell",
     "Shortcuts Obsidian/Sans titre.md",
     "Bienvenue.md",
